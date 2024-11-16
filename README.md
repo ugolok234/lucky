@@ -7,7 +7,8 @@
 <body>
     <h1>Добро пожаловать на мой сайт!</h1>
     <p>Это мой первый сайт, созданный с нуля на HTML.В нем я вам расскажу какие породы кошек бывают</p>
-    <img src="img/AQAOq1KcLCW2ubJ3d9OXofZJogOKSqVMYWtNNgkF-UF3F-bvJKqPkME-edCHWUs6UxgEkG22hjJZSy51lyksAeNgXUo.webp"> <h1>Описание породы бразильская</h1>
+    <img src="img/AQAOq1KcLCW2ubJ3d9OXofZJogOKSqVMYWtNNgkF-UF3F-bvJKqPkME-edCHWUs6UxgEkG22hjJZSy51lyksAeNgXUo.webp"> <h1>Бразильская</h1>
+<h2>Описание породы<h2>
 <p>-Животное среднего размера</p>
 <p>-Короткошерстная</p>
 <p>-Редкая порода</p>
